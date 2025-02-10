@@ -51,7 +51,8 @@ This SDK currently supports the following platforms/architectures:
 
 - iOS arm64
 - iOS Simulator arm64
-- macOS arm64
+- MacOS arm64
+- MacOS x86_64
 
 ## Usage
 
